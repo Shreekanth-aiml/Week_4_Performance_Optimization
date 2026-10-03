@@ -1,0 +1,22 @@
+WEEK 4 - PERFORMANCE OPTIMIZATION RESULTS
+
+Application: Duplicate Number Detection
+
+Original Version:
+Execution Time: 0.13828444480895996 seconds
+
+Optimized Version:
+Execution Time: 0.0002524852752685547 seconds
+
+Performance Improvement:
+99.81741599670349 %
+
+Functionality Check:
+Original output: Number of duplicates: 1000
+Optimized output: Number of duplicates: 1000
+
+Testing:
+Automated tests passed successfully.
+
+Result:
+The optimized version produced the same output as the original version while reducing execution time by approximately 99.82%.
